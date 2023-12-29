@@ -1,3 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuhoops)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuhoops&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Snake animation](https://github.com/thepiyushmalhotra/wuhoops/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wuhoops&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhoops&layout=compact" alt="Top Languages" />
+</div>
